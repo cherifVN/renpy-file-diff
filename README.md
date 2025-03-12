@@ -61,7 +61,7 @@ renpy-file-diff/
 The script will display identical, different, and unique files.
 
 ### Output
-(the code is in french, so the output too)
+(The code is in french, so the output too)
 ```
 Fichiers avec le même nom et contenu identique :
 - script1.rpy

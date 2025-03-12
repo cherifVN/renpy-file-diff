@@ -18,7 +18,7 @@ Compare `.rpy` files in two folders, showing identical, different, and unique fi
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/renpy-file-diff.git
+git clone https://github.com/cherifVN/renpy-file-diff.git
 ```
 
 Navigate to the project directory:
@@ -88,7 +88,7 @@ Comparer les fichiers `.rpy` dans deux dossiers, affichant les fichiers identiqu
 Clonez ce dépôt sur votre machine locale :
 
 ```bash
-git clone https://github.com/votre-utilisateur/renpy-file-diff.git
+git clone https://github.com/cherifVN/renpy-file-diff.git
 ```
 
 Accédez au répertoire du projet :

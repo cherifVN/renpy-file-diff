@@ -64,14 +64,14 @@ The script will display identical, different, and unique files.
 (The code is in french, so the output too)
 ```
 Fichiers avec le même nom et contenu identique :
-- script1.rpy
+[script1.rpy]
 
 Fichiers avec le même nom mais un contenu différent :
-- Aucun
+[]
 
 Fichiers uniques dans l'un ou l'autre des dossiers :
-- dossier1/script2.rpy
-- dossier2/script3.rpy
+script2.rpy (dans dossier1)
+script3.rpy (dans dossier2)
 ```
 
 ## Contributing
@@ -148,14 +148,14 @@ Le script affichera les fichiers identiques, différents et uniques.
 
 ```
 Fichiers avec le même nom et contenu identique :
-- script1.rpy
+[script1.rpy]
 
 Fichiers avec le même nom mais un contenu différent :
-- Aucun
+[]
 
 Fichiers uniques dans l'un ou l'autre des dossiers :
-- dossier1/script2.rpy
-- dossier2/script3.rpy
+script2.rpy (dans dossier1)
+script3.rpy (dans dossier2)
 ```
 
 ## Contribuer
